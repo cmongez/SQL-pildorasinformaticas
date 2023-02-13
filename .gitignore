@@ -1,3 +1,5 @@
 */ignorar
 *.zip
 *.docx
+*.pdf
+*.ods
